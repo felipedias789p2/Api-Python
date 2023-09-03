@@ -5,3 +5,5 @@ Comandos para adicionar as bibliotecas
 
 pip install flask
 
+pip install requests
+
